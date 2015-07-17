@@ -44,7 +44,7 @@ Hacking or breaking the rules will still result in a ban and we are not required
 
 ### Chargebacking
 
-Using PAYPAL or any other kind payment gateway to Chargeback will result in the player being banned from both the server and the SERVERNAME donation store.
+Using PAYPAL or any other kind payment gateway to chargeback, will result in the item being removed and the player being banned from both the server and the donation store.
 
 ### JUST DONATE:
 
