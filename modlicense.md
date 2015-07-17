@@ -1,4 +1,4 @@
-This is my modified version of MMPLv2 by jakimfet.
+This is my modified version of [MMPLv2](https://github.com/jakimfett/MMPLv2).
 Minecraft Mod Public License
 ============================
 
