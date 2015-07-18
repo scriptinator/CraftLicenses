@@ -40,11 +40,11 @@ We here at SERVERNAME take privacy seriously. All personal information received 
 
 ### Hacking/Rule Breaking
 
-Hacking or breaking the rules will still result in a ban and we are not required to give you a refund. We reserve the right to make you leave the server permanently or otherwise without a refund.
+Hacking or breaking the rules will still result in a ban and we are not required to give you a refund. We reserve the right to ban you which will make you leave the server permanently or otherwise without a refund.
 
 ### Chargebacking
 
-Using PAYPAL or any other kind payment gateway to chargeback, will result in the item being removed and the player being banned from both the server and the donation store.
+Using PAYPAL or any other kind payment gateway to chargeback, will result in all pending commands being deleted and the player being banned from both the server and the donation store.
 
 ### JUST DONATE:
 
